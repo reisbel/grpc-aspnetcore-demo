@@ -10,10 +10,6 @@ Creates a new gRPC service
 dotnet new grpc -o GrpcGreeter
 ```
 
-Trust the HTTPS development certificate by running the following command:
-
-dotnet dev-certs https --trust
-
 Examine the project files
 
 ```note
